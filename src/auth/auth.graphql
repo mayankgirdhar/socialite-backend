@@ -1,0 +1,4 @@
+input LoginInput {
+  username: String!
+  password: String!
+}
